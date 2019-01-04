@@ -59,3 +59,11 @@ def generateValues():
 generateTime()
 generateValues()
 
+
+
+
+#https://stackoverflow.com/questions/13217434/insert-to-cassandra-from-python-using-cql
+#https://pypi.org/project/cql/1.4.0/
+
+
+
